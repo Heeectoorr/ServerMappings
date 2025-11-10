@@ -1,12 +1,12 @@
 {
     "id": "royaltymc",
     "name": "RoyaltyMC Network",
-    "store": "https://store.royaltymc.live/",
+    "store": "https://store.royaltymc.es/",
     "description": "Network dedicated to competitive PvP gamemodes!",
     "addresses": [
-        "royaltymc.live"
+        "royaltymc.es"
     ],
-    "primaryAddress": "royaltymc.live",
+    "primaryAddress": "royaltymc.es",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
