@@ -17,6 +17,8 @@
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
+        "KITMAP",
+        "PRACTICE",
         "PvP"
     ],
     "socials": {
